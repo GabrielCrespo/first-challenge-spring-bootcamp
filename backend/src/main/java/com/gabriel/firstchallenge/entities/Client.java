@@ -1,4 +1,4 @@
-package com.gabriel.firstchallenge;
+package com.gabriel.firstchallenge.entities;
 
 import java.io.Serializable;
 import java.time.Instant;
